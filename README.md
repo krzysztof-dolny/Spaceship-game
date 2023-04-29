@@ -8,8 +8,7 @@ Aim of this project was to create a simple game using classes that includes basi
 - perks
 - dynamically appearing objects
 
-In the game, we are operating a spaceship and we can destroy asteroids to gain points. The game ends when we lose all our HP. 
-Ofcourse we are using 
+In the game, we are operating a spaceship and we can destroy asteroids to gain points. The game ends when we lose all our HP points. 
 
 It looks like this:
 
